@@ -1,4 +1,10 @@
 # Project Overview
+
+## 0. Install PHP dependencies & Front End
+composer install
+
+npm install
+
 ## 1. Database Schemas
 The application relies on the following table structures:
 
